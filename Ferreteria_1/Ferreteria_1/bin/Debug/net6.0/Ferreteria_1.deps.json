@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ferreteria_1/1.0.0": {
+        "runtime": {
+          "Ferreteria_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ferreteria_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

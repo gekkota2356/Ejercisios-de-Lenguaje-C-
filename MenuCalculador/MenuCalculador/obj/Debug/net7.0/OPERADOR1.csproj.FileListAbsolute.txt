@@ -1,0 +1,28 @@
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1\OPERADOR1\bin\Debug\net7.0\OPERADOR1.exe
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1\OPERADOR1\bin\Debug\net7.0\OPERADOR1.deps.json
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1\OPERADOR1\bin\Debug\net7.0\OPERADOR1.runtimeconfig.json
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1\OPERADOR1\bin\Debug\net7.0\OPERADOR1.dll
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1\OPERADOR1\bin\Debug\net7.0\OPERADOR1.pdb
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1\OPERADOR1\obj\Debug\net7.0\OPERADOR1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1\OPERADOR1\obj\Debug\net7.0\OPERADOR1.AssemblyInfoInputs.cache
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1\OPERADOR1\obj\Debug\net7.0\OPERADOR1.AssemblyInfo.cs
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1\OPERADOR1\obj\Debug\net7.0\OPERADOR1.csproj.CoreCompileInputs.cache
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1\OPERADOR1\obj\Debug\net7.0\OPERADOR1.dll
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1\OPERADOR1\obj\Debug\net7.0\refint\OPERADOR1.dll
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1\OPERADOR1\obj\Debug\net7.0\OPERADOR1.pdb
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1\OPERADOR1\obj\Debug\net7.0\OPERADOR1.genruntimeconfig.cache
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1\OPERADOR1\obj\Debug\net7.0\ref\OPERADOR1.dll
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1 - copia\OPERADOR1\bin\Debug\net7.0\OPERADOR1.exe
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1 - copia\OPERADOR1\bin\Debug\net7.0\OPERADOR1.deps.json
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1 - copia\OPERADOR1\bin\Debug\net7.0\OPERADOR1.runtimeconfig.json
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1 - copia\OPERADOR1\bin\Debug\net7.0\OPERADOR1.dll
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1 - copia\OPERADOR1\bin\Debug\net7.0\OPERADOR1.pdb
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1 - copia\OPERADOR1\obj\Debug\net7.0\OPERADOR1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1 - copia\OPERADOR1\obj\Debug\net7.0\OPERADOR1.AssemblyInfoInputs.cache
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1 - copia\OPERADOR1\obj\Debug\net7.0\OPERADOR1.AssemblyInfo.cs
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1 - copia\OPERADOR1\obj\Debug\net7.0\OPERADOR1.csproj.CoreCompileInputs.cache
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1 - copia\OPERADOR1\obj\Debug\net7.0\OPERADOR1.dll
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1 - copia\OPERADOR1\obj\Debug\net7.0\refint\OPERADOR1.dll
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1 - copia\OPERADOR1\obj\Debug\net7.0\OPERADOR1.pdb
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1 - copia\OPERADOR1\obj\Debug\net7.0\OPERADOR1.genruntimeconfig.cache
+c:\Users\quewt\OneDrive\Documentos\poyectos vscode\OPERADOR1 - copia\OPERADOR1\obj\Debug\net7.0\ref\OPERADOR1.dll

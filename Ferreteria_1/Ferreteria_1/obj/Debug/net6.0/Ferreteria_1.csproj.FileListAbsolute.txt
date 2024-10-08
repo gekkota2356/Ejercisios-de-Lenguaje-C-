@@ -1,0 +1,14 @@
+C:\Users\quewt\source\repos\Ferreteria_1\Ferreteria_1\bin\Debug\net6.0\Ferreteria_1.exe
+C:\Users\quewt\source\repos\Ferreteria_1\Ferreteria_1\bin\Debug\net6.0\Ferreteria_1.deps.json
+C:\Users\quewt\source\repos\Ferreteria_1\Ferreteria_1\bin\Debug\net6.0\Ferreteria_1.runtimeconfig.json
+C:\Users\quewt\source\repos\Ferreteria_1\Ferreteria_1\bin\Debug\net6.0\Ferreteria_1.dll
+C:\Users\quewt\source\repos\Ferreteria_1\Ferreteria_1\bin\Debug\net6.0\Ferreteria_1.pdb
+C:\Users\quewt\source\repos\Ferreteria_1\Ferreteria_1\obj\Debug\net6.0\Ferreteria_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quewt\source\repos\Ferreteria_1\Ferreteria_1\obj\Debug\net6.0\Ferreteria_1.AssemblyInfoInputs.cache
+C:\Users\quewt\source\repos\Ferreteria_1\Ferreteria_1\obj\Debug\net6.0\Ferreteria_1.AssemblyInfo.cs
+C:\Users\quewt\source\repos\Ferreteria_1\Ferreteria_1\obj\Debug\net6.0\Ferreteria_1.csproj.CoreCompileInputs.cache
+C:\Users\quewt\source\repos\Ferreteria_1\Ferreteria_1\obj\Debug\net6.0\Ferreteria_1.dll
+C:\Users\quewt\source\repos\Ferreteria_1\Ferreteria_1\obj\Debug\net6.0\refint\Ferreteria_1.dll
+C:\Users\quewt\source\repos\Ferreteria_1\Ferreteria_1\obj\Debug\net6.0\Ferreteria_1.pdb
+C:\Users\quewt\source\repos\Ferreteria_1\Ferreteria_1\obj\Debug\net6.0\Ferreteria_1.genruntimeconfig.cache
+C:\Users\quewt\source\repos\Ferreteria_1\Ferreteria_1\obj\Debug\net6.0\ref\Ferreteria_1.dll
